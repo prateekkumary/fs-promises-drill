@@ -1,0 +1,23 @@
+{
+  "name": "fs-promises-drill",
+  "version": "1.0.0",
+  "description": "",
+  "main": "problem1.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prateekkumary/fs-promises-drill.git"
+  },
+  "author": "",
+  "type": "module",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/prateekkumary/fs-promises-drill/issues"
+  },
+  "homepage": "https://github.com/prateekkumary/fs-promises-drill#readme"
+}
